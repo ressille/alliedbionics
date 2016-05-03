@@ -1,0 +1,52 @@
+td {
+	width:50%;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #007eb6;
+	font-family: 'Lucida Console'; color: white;
+
+}
+
+table{
+	padding-bottom: 30px;
+}
+
+td a{
+	display: block;
+}
+div{
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Shruti';
+}
+
+#intro{
+
+}
+
+#banner1{
+	width:100%;
+	min-height: 75px;
+}
+
+a {text-decoration: none; color:white;}
+a:visited { text-decoration: none; color:white; }
+a:hover { text-decoration: none; color:white; }
+a:focus { text-decoration: none; color:white; }
+a:hover, a:active { text-decoration: none; color:white }
+a.button{
+	-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+#foot{
+	border-style: solid;
+	border-width: 1px 0 0 0;
+	border-color: black;
+	padding-top: 30px;
+	margin-top: 30px; 
+}
